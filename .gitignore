@@ -1,0 +1,5 @@
+.*
+test/
+local-test/
+!.gitignore
+!.github/
